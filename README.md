@@ -55,12 +55,6 @@
 
 ---
 
-## 📷 Screenshots
-
-> Add screenshots here after testing (optional)
-
----
-
 ## 🧑‍💻 Author
 
 - **Name:** Thota Rahul  
